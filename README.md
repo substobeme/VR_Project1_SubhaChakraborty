@@ -214,8 +214,8 @@ The U-Net model was simplified for CPU training:
 ## How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YourGitHubUsername]/VR_Project1_[YourName]_[YourRollNo].git
-   cd VR_Project1_[YourName]_[YourRollNo]
+   git clone https://github.com/substobeme/VR_Assignment1_SubhaChakraborty_MT2024156.git
+   cd VR_Assignment1_SubhaChakraborty_MT2024156
    ```
 2. Install dependencies:
    ```bash
@@ -223,11 +223,11 @@ The U-Net model was simplified for CPU training:
    ```
 3. Run Binary Classification:
    ```bash
-   python Q1 & Q2.py
+   python Q1&Q2.py
    ```
 4. Run Segmentation:
    ```bash
-   python Q3 and Q4.py
+   python 'Q3 & Q4.py'
    ```
 
 
