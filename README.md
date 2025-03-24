@@ -231,7 +231,8 @@ The U-Net model was simplified for CPU training:
 
 
 ## Contributors
+- **Bhanuja Bhatt**
 - **Subha Chakraborty**
 - **Meenal Jain**
-- **Bhanuja Bhatt**
+
 
