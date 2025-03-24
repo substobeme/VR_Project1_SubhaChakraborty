@@ -13,7 +13,6 @@ The project uses two datasets:
 - For binary classification: Dataset located in "https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset" with two classes - "mask" and "nonmask"
 - For segmentation: Dataset from "https://github.com/sadjadrz/MFSD"
 
-The face mask detection dataset consists of images of people with and without masks, organized in separate folders for training and testing. The segmentation dataset includes paired images with corresponding pixel-level mask annotations.
 ## Methodology
 ### Task 1: Binary Classification
 ### Handcrafted Features Approach
